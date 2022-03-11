@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Rontu22/winston_practice/issues"
   },
-  "homepage": "https://github.com/Rontu22/winston_practice#readme"
+  "homepage": "https://github.com/Rontu22/winston_practice#readme",
+  "dependencies": {
+    "winston": "^3.6.0"
+  }
 }
